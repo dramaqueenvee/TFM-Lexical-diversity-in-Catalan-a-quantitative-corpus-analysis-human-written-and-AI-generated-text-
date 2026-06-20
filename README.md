@@ -2,6 +2,7 @@
 Master's thesis (UPF). Lexical diversity analysis: comparing human vs AI-generated Catalan academic abstracts using quantitative corpus-linguistic metrics.
 
 **Institution**: Universitat Pompeu Fabra, Master in Theoretical and Applied Linguistics
+
 **Year**: 2025-2026
 
 ## Overview
