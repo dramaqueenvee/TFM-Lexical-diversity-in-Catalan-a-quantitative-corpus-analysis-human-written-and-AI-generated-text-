@@ -86,7 +86,7 @@ These files contain the top 100 most frequent lemmas extracted via `spaCy`.
 *   **Frequencies post-LLM corpus.xlsx**
 *   **Frequencies AI corpus.xlsx**
 
-*Columns for all frequency files:*
+Columns for all frequency files:
 *   `Word`: The lemmatized lexical entry.
 *   `Absolute frequency`: Raw count within the specific corpus.
 *   `PMW`: Normalized frequency Per Million Words, calculated as:
@@ -96,7 +96,7 @@ These files contain the top 100 most frequent lemmas extracted via `spaCy`.
 *   **Comparison pre-LLM and AI corpora.xlsx**: Lexical distance between the baseline human-written abstracts and the AI-generated outputs.
 *   **Comparison post-LLM and AI corpora.xlsx**: Direct comparison tracking the AI footprint in contemporary academic writing.
 
-*Columns for all comparison files:*
+Columns for all comparison files:
 *   `Word`: Lemmatized entry evaluated.
 *   `PMW [Human/AI]`: Comparative normalized weights.
 *   `Difference PMW`: Displacement indicating over- or under-representation.
